@@ -11,3 +11,5 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 
 #checking for pull from remote to locatl
+
+##checking for push this file
